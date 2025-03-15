@@ -2,7 +2,7 @@ packages:
   ttc/ttc.cabal
   ttc-examples/ttc-examples.cabal
 
-with-compiler: ghc-9.12.1
+with-compiler: ghc-9.12.2
 
 constraints:
     -- https://hackage.haskell.org/package/base
