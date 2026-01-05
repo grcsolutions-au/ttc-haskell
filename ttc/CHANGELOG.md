@@ -26,6 +26,11 @@ following conventions:
 
 ## Unreleased
 
+### Non-Breaking
+
+* Bump `base` dependency version upper bound
+* Bump `template-haskell` dependency version upper bound
+
 ## 1.5.0.0 (2025-01-02)
 
 ### Breaking
