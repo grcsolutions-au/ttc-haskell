@@ -24,6 +24,13 @@ following conventions:
 
 [KaC]: <https://keepachangelog.com/en/1.0.0/>
 
+## 1.5.0.1 (2026-01-10)
+
+### Non-Breaking
+
+* Bump `base` dependency version upper bound
+* Bump `template-haskell` dependency version upper bound
+
 ## 1.5.0.0 (2025-01-02)
 
 ### Breaking
